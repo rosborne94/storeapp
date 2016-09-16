@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: limegreen;
+    font-size: 50px;
+}
+nav{
+    display: inline;
+    font-size: 20px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.wrapper {
+    margin: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    color: limegreen;
+    text-align: center;
+    padding: 15px 0 15px 0;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #Ff2a54; 
+    font-family: 'Indie Flower', cursive;
+    margin:0 108px 0 0;
+}   
+
+
+html { 
+  background: url(https://goo.gl/YIwrv8) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
